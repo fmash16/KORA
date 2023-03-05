@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "kora")(type "KiCad")(uri "${KIPRJMOD}/kora.kicad_sym")(options "")(descr ""))
+  (lib (name "TCA9555PWR")(type "KiCad")(uri "${KIPRJMOD}/TCA9555PWR.kicad_sym")(options "")(descr ""))
+  (lib (name "power")(type "Legacy")(uri "${KIPRJMOD}/power.lib")(options "")(descr ""))
+)

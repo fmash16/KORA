@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "prettylib")(type "KiCad")(uri "${KIPRJMOD}/prettylib")(options "")(descr ""))
+  (lib (name "kora")(type "KiCad")(uri "${KIPRJMOD}/kora.pretty")(options "")(descr ""))
+)

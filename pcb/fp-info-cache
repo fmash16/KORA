@@ -1,0 +1,386 @@
+92286810678282
+kora
+Buzzer_Mallory_AST1109MLTRQ_reversible
+Mallory low-profile piezo buzzer, https://www.mspindy.com/specifications/AST1109MLTRQ.pdf
+buzzer piezo
+0
+2
+2
+kora
+D3_TH_SMD
+Resitance 3 pas
+R
+0
+6
+2
+kora
+Hirose_FH12-12S-0.5SH_1x12-1MP_P0.50mm_Horizontal
+Hirose FH12, FFC/FPC connector, FH12-12S-0.5SH, 12 Pins per row (https://www.hirose.com/product/en/products/FH12/FH12-24S-0.5SH(55)/), generated with kicad-footprint-generator
+connector Hirose FH12 horizontal
+0
+14
+13
+kora
+JST_PH_reversible
+JST PH series connector, S2B-PH-K (http://www.jst-mfg.com/product/pdf/eng/ePH.pdf), generated with kicad-footprint-generator
+connector JST PH top entry
+0
+2
+2
+kora
+MJ-4PP-9
+
+
+0
+8
+4
+kora
+MX-1U-EC11_Switch
+
+rotary encoder
+0
+7
+6
+kora
+MX_Choc_Hotswap_Mod
+
+
+0
+8
+2
+kora
+MX__CHOC_KAILH_SOCKET_2U_2X1U
+MXALPS
+MXALPS
+0
+56
+4
+kora
+MountingHole_2.2mm_M2
+Mounting Hole 2.2mm, no annular, M2
+mounting hole 2.2mm no annular m2
+0
+0
+0
+kora
+MountingHole_2.2mm_M2_ISO7380_Pad
+Mounting Hole 2.2mm, M2, ISO7380
+mounting hole 2.2mm m2 iso7380
+0
+1
+1
+kora
+MountingHole_3.2mm_M3
+Mounting Hole 3.2mm, no annular, M3
+mounting hole 3.2mm no annular m3
+0
+0
+0
+kora
+MountingHole_3.2mm_M3_ISO7380_Pad
+Mounting Hole 3.2mm, M3, ISO7380
+mounting hole 3.2mm m3 iso7380
+0
+1
+1
+kora
+Pimoroni Haptic Buzz DRV2605L Driver
+Through hole straight pin header, 1x05, 2.54mm pitch, single row
+Through hole pin header THT 1x05 2.54mm single row
+0
+5
+5
+kora
+ProMicro_rev2
+
+
+0
+48
+24
+kora
+RESISTOR
+
+
+0
+2
+2
+kora
+RevSlideSwitch
+
+
+0
+10
+5
+kora
+SSD1306_128x64OLED
+
+
+0
+4
+4
+kora
+SW_Push_1P1T-MP_NO_Horizontal_Alps_SKRTLAE010_both_sides
+Side push button (https://www.alps.com/prod/info/E/PDF/Tact/SurfaceMount/SKRT/SKRT.pdf)
+push horizontal SPST 1P1T
+0
+5
+3
+kora
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+kora
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
+0
+2
+2
+kora
+SolderWire-0.1sqmm_1x04_P3.6mm_D0.4mm_OD1mm
+Soldered wire connection, for 4 times 0.1 mm² wires, basic insulation, conductor diameter 0.4mm, outer diameter 1mm, size source Multi-Contact FLEXI-E 0.1 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.1sqmm
+0
+4
+4
+kora
+SolderWire-0.5sqmm_1x02_P4.8mm_D0.9mm_OD2.3mm
+Soldered wire connection, for 2 times 0.5 mm² wires, reinforced insulation, conductor diameter 0.9mm, outer diameter 2.3mm, size source Multi-Contact FLEXI-xV 0.5 (https://ec.staubli.com/AcroFiles/Catalogues/TM_Cab-Main-11014119_(en)_hi.pdf), bend radius 3 times outer diameter, generated with kicad-footprint-generator
+connector wire 0.5sqmm
+0
+2
+2
+kora
+TCA9555PWR
+
+
+0
+24
+24
+kora
+Trackpad Mount
+
+
+0
+4
+1
+kora
+XIAO-BLE
+
+
+0
+28
+14
+kora
+klein
+
+
+0
+0
+0
+kora
+klein_small
+
+
+0
+0
+0
+prettylib
+Crystal_SMD_3225-4Pin_3.2x2.5mm
+SMD Crystal SERIES SMD3225/4 http://www.txccrystal.com/images/pdf/7m-accuracy.pdf, 3.2x2.5mm^2 package
+SMD SMT crystal
+0
+4
+4
+prettylib
+D_SOD-123
+SOD-123
+SOD-123
+0
+2
+2
+prettylib
+D_SOD-523
+http://www.diodes.com/datasheets/ap02001.pdf p.144
+Diode SOD523
+0
+2
+2
+prettylib
+Fuse_1206_3216Metric
+Fuse SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+resistor
+0
+2
+2
+prettylib
+JLC_SMT_Assembly_Hole
+
+
+0
+0
+0
+prettylib
+LED-0603
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+2
+2
+prettylib
+LED-0603_flipable
+LED 0603 smd package
+LED led 0603 SMD smd SMT smt smdled SMDLED smtled SMTLED
+0
+4
+2
+prettylib
+LOGO
+
+
+0
+0
+0
+prettylib
+LQFP-48_7x7mm_P0.5mm
+LQFP, 48 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/ltc2358-16.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
+LQFP QFP
+0
+48
+48
+prettylib
+MX_KAILH_SOCKET_1U
+MXALPS
+MXALPS
+0
+20
+2
+prettylib
+MX_KAILH_SOCKET_2U_2X1U
+MXALPS
+MXALPS
+0
+48
+4
+prettylib
+MountingHole_2.2mm_M2_Pad_Via
+Mounting Hole 2.2mm, M2
+mounting hole 2.2mm m2
+0
+9
+1
+prettylib
+PinHeader_1x06_P2.54mm_Horizontal
+Through hole angled pin header, 1x06, 2.54mm pitch, 6mm pin length, single row
+Through hole angled pin header THT 1x06 2.54mm single row
+0
+6
+6
+prettylib
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+prettylib
+SK6812_mini_e_flipable
+
+
+0
+12
+4
+prettylib
+SK6812_mini_flipable
+MXALPS
+MXALPS
+0
+12
+4
+prettylib
+SMD-0603
+Capacitor SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator
+capacitor
+0
+2
+2
+prettylib
+SMD-0805
+SMD 0805 (2012 Metric), square (rectangular)
+capacitor
+0
+2
+2
+prettylib
+SMD_Tacticle_Switch_TS24CA
+
+
+0
+4
+2
+prettylib
+SMD_Tacticle_Switch_TS24CA_flipable
+
+
+0
+8
+2
+prettylib
+SOLDER_JUMPER_2
+
+solder jumper bridge configuration
+0
+2
+2
+prettylib
+SOLDER_JUMPER_3
+
+solder jumper bridge configuration
+0
+3
+3
+prettylib
+SOT-23
+SOT-23, Standard
+SOT-23
+0
+3
+3
+prettylib
+SOT-23-5
+5-pin SOT23 package
+SOT-23-5
+0
+5
+5
+prettylib
+SOT-23-6
+6-pin SOT-23 package
+SOT-23-6
+0
+6
+6
+prettylib
+SSD1107_DISPLAY
+0.9n Inch 64x128 I2C OLED LCD Display
+
+0
+12
+4
+prettylib
+TSSOP-8_4.4x3mm_P0.65mm
+8-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] (see Microchip Packaging Specification 00000049BS.pdf)
+SSOP 0.65
+0
+8
+8
+prettylib
+USB_C_Receptacle_MUP_U22401
+USB Type-C receptacle for USB 2.0
+usb usb-c 2.0 pd
+0
+20
+17
